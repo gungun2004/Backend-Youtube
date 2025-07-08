@@ -1,0 +1,25 @@
+{
+  "name": "backendseries",
+  "version": "1.0.0",
+  "description": "Backend code of my version of youtube",
+  "keywords": [
+    "Backend",
+    "Youtube",
+    "BackendSeries"
+  ],
+  "homepage": "https://github.com/gungun2004/Backend-Youtube#readme",
+  "bugs": {
+    "url": "https://github.com/gungun2004/Backend-Youtube/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gungun2004/Backend-Youtube.git"
+  },
+  "license": "ISC",
+  "author": "Gungun Dhingra",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
